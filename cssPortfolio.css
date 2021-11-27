@@ -1,0 +1,37 @@
+h1{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+h2{
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+h3{
+    color: steelblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+p{
+    color: gold;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    color: springgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+ol{
+    color: dodgerblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: small;
+}   
+.centered{
+    text-align: center;
+}
+body{
+    margin: auto;
+    background-color: black;
+}
