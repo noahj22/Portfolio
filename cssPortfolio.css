@@ -35,3 +35,7 @@ body{
     margin: auto;
     background-color: black;
 }
+img.resize{
+    width:540px;
+    height:auto
+}
