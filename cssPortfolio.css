@@ -52,4 +52,9 @@ img.resize{
     height:auto
 }
 /*picture was too big when I first inserted it so it was resized*/
-
+a:hover{
+    background-color:yellow
+}
+ul:hover{
+    background-color:indigo;
+}
