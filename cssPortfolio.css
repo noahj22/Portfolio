@@ -3,18 +3,21 @@ h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: x-large;
     padding:10px 20px;
+    height: 5px;
 }
 /*h1 is the most important so I wanted it to pop out the most*/
 h2{
     color: blueviolet;
     font-family: Arial, Helvetica, sans-serif;
     font-size: large;
+    padding: 5px;
 }
 /*for h2 it is also important, I wanted it to be a little more subtle and I really liked the blueviolet look with the black background*/
 h3{
     color: steelblue;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: large;
+    padding: 5px;
 }
 /*contact list on the bottom of the page*/
 p{
