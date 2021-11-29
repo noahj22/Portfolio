@@ -3,39 +3,52 @@ h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: x-large;
 }
+/*h1 is the most important so I wanted it to pop out the most*/
 h2{
     color: blueviolet;
     font-family: Arial, Helvetica, sans-serif;
     font-size: large;
 }
+/*for h2 it is also important, I wanted it to be a little more subtle and I really liked the blueviolet look with the black background*/
 h3{
     color: steelblue;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: large;
 }
+/*contact list on the bottom of the page*/
 p{
     color: gold;
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
 }
+/*the main text of the page wanted people to be able to easily read the text with the black background*/
 ul{
     color: springgreen;
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
 }
+/*unordered list of things that I like to do*/
 ol{
     color: dodgerblue;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: small;
 }   
+/*ordered list of my contact information*/
 .centered{
     text-align: center;
 }
+/*wanted the text to be right in the center of the page easy to see*/
 body{
     margin: auto;
     background-color: black;
 }
+/*black background with lots of different colors to give it a unique look*/
 img.resize{
     width:540px;
     height:auto
+}
+/*picture was too big when I first inserted it so it was resized*/
+.index.html{
+    height:auto;
+    padding:100px;
 }
