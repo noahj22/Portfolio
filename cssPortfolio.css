@@ -53,8 +53,9 @@ img.resize{
 }
 /*picture was too big when I first inserted it so it was resized*/
 a:hover{
-    background-color:yellow
+    background-color: yellow;
 }
 ul:hover{
-    background-color:indigo;
+    background-color: indigo;
 }
+/*added background colors for these for added effect*/
