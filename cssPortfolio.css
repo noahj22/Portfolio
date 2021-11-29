@@ -2,6 +2,7 @@ h1{
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: x-large;
+    padding:10px 20px;
 }
 /*h1 is the most important so I wanted it to pop out the most*/
 h2{
@@ -48,7 +49,4 @@ img.resize{
     height:auto
 }
 /*picture was too big when I first inserted it so it was resized*/
-.index.html{
-    height:auto;
-    padding:100px;
-}
+
