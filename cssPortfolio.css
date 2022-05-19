@@ -7,21 +7,25 @@ h2{
     color: blueviolet;
     font-family: Arial, Helvetica, sans-serif;
     font-size: large;
+    text-align: center;
 }
 h3{
     color: steelblue;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: large;
+    text-align: center;
 }
 p{
-    color: gold;
+    color: forestgreen;
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
 ul{
-    color: springgreen;
+    color: forestgreen;
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
+    text-align: center;
 }
 ol{
     color: dodgerblue;
@@ -33,5 +37,8 @@ ol{
 }
 body{
     margin: auto;
-    background-color: black;
+    background-color: beige;
+}
+cloove.JPG{
+    align-self: center;
 }
